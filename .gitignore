@@ -1,0 +1,5 @@
+# Ignoring hidden files and folders
+*.~*
+
+# Ignoring .out files 
+*.out
